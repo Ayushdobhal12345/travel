@@ -35,10 +35,10 @@
 
 <section class="header">
 
-   <a href="home.php" class="logo"><img src="images/logo1.jpg"></a>
+   <a href="index.php" class="logo"><img src="images/logo1.jpg"></a>
 
    <nav class="navbar">
-      <a href="home.php">home</a>
+      <a href="index.php">home</a>
       <a href="about.php" class="active">about</a>
       <a href="package.php">package</a>
       <a href="book.php">book</a>
@@ -215,7 +215,7 @@
          <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
       </div>
    </div>
-   <div class="credit"> designed by <span>mr. bingo mingo</span> | all rights reserved! </div>
+   <div class="credit"> designed by <span>AD Designs</span> | all rights reserved! </div>
 </section>
 
 <!-- footer section ends -->

@@ -4,7 +4,7 @@
    <meta charset="UTF-8">
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Travel Agency :: Best Agency</title>
+   <title>Safar Guru</title>
 
    <!-- swiper css link  -->
    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
@@ -34,10 +34,10 @@
 
 <section class="header">
 
-   <a href="home.php" class="logo"><img src="images/logo1.jpg"></a>
+   <a href="index.php" class="logo"><img src="images/logo1.jpg"></a>
 
    <nav class="navbar">
-      <a href="home.php">home</a>
+      <a href="index.php">home</a>
       <a href="about.php">about</a>
       <a href="package.php" class="active">package</a>
       <a href="book.php">book</a>
@@ -246,7 +246,7 @@
          <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
       </div>
    </div>
-   <div class="credit"> designed by <span>mr. bingo mingo</span> | all rights reserved! </div>
+   <div class="credit"> designed by <span>AD Designs</span> | all rights reserved! </div>
 </section>
 
 <!-- footer section ends -->
